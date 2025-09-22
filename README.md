@@ -1,2 +1,7 @@
 # Travel.io
-Travel Guide &amp; Booking Assistance Website
+Travel wensite using :
+
+        > HTML
+        > CSS
+        > JS
+        > Firebase (Database)
